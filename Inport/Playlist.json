@@ -1,0 +1,52 @@
+[
+	{
+		"Name": "Test_bit",
+		"Media":
+		{
+			"1": "C:/Users/Polar/Documents/MusicSource/Test_bit/16.wav",
+			"2": "C:/Users/Polar/Documents/MusicSource/Test_bit/24.wav",
+			"3": "C:/Users/Polar/Documents/MusicSource/Test_bit/32.wav"
+		}
+	},
+	{
+		"Name": "Test_type",
+		"Media":
+		{
+			"1": "C:/Users/Polar/Documents/MusicSource/Test_type/AAC_FDK.m4a",
+			"2": "C:/Users/Polar/Documents/MusicSource/Test_type/AAC_FFM.m4a",
+			"3": "C:/Users/Polar/Documents/MusicSource/Test_type/MP3.mp3",
+			"4": "C:/Users/Polar/Documents/MusicSource/Test_type/OGG.ogg",
+			"5": "C:/Users/Polar/Documents/MusicSource/Test_type/OPUS.opus",
+			"6": "C:/Users/Polar/Documents/MusicSource/Test_type/ALAC.m4a",
+			"7": "C:/Users/Polar/Documents/MusicSource/Test_type/FLAC.flac",
+			"8": "C:/Users/Polar/Documents/MusicSource/Test_type/WMA.wma",
+			"9": "C:/Users/Polar/Documents/MusicSource/Test_type/WAV.wav"
+		}
+	},
+	{
+		"Name": "Test_LMHN",
+		"Media":
+		{
+			"1": "C:/Users/Polar/Documents/MusicSource/Test_LMHN/L.wav",
+			"2": "C:/Users/Polar/Documents/MusicSource/Test_LMHN/M.wav",
+			"3": "C:/Users/Polar/Documents/MusicSource/Test_LMHN/H.wav",
+			"4": "C:/Users/Polar/Documents/MusicSource/Test_LMHN/N.wav"
+		}
+	},
+	{
+		"Name": "Test_mode",
+		"Media":
+		{
+			"1": "C:/Users/Polar/Documents/MusicSource/Test_mode/TRINITY SEVEN MAIN THEME.wav"
+		}
+	},
+	{
+		"Name": "Test_comparison",
+		"Media":
+		{
+			"1": "C:/Users/Polar/Documents/MusicSource/Test_comparison/Lossy.wma",
+			"2": "C:/Users/Polar/Documents/MusicSource/Test_comparison/LossLess.wma",
+			"3": "C:/Users/Polar/Documents/MusicSource/Test_comparison/UnComp.wav"
+		}
+	}
+]

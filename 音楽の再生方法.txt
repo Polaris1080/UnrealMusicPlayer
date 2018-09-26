@@ -1,3 +1,0 @@
-１．"C:/MusicSource/"に、wawファイルを配置する。（現在 1.waw～5.wawまで対応）
-２．ショートカット"Music_Player"をダブルクリックして起動。
-３．プレイリストからDefaultを選択する。

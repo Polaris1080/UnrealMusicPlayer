@@ -1,4 +1,4 @@
-Music_Player/Binaries/Win64/Music_Player-Win64-Shipping.exe	2018-10-02T13:08:55.380Z
+Music_Player/Binaries/Win64/Music_Player-Win64-Shipping.exe	2018-10-24T04:42:02.305Z
 Engine/Extras/Redist/en-us/UE4PrereqSetup_x64.exe	2018-06-07T01:57:44.209Z
 Engine/Binaries/Win64/UnrealCEFSubProcess.exe	2018-06-07T01:54:45.692Z
 Engine/Plugins/Compositing/OpenCVLensDistortion/Binaries/ThirdParty/Win64/opencv_world331.dll	2018-06-13T04:43:29.843Z
@@ -86,4 +86,4 @@ Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/uk.pak	2018-06-07T01:54:
 Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/vi.pak	2018-06-07T01:54:07.944Z
 Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/zh-CN.pak	2018-06-07T01:54:07.955Z
 Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/zh-TW.pak	2018-06-07T01:54:07.964Z
-Music_Player.exe	2018-10-02T13:09:26.628Z
+Music_Player.exe	2018-10-24T04:42:34.208Z
